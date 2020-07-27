@@ -10,7 +10,7 @@ class ToggleSwitch extends React.Component {
         var allElements = document.getElementsByTagName('*');
         for (var i = 0, len = allElements.length; i < len; i++) {
         var element = allElements[i];
-        element.style.background = "white"
+        element.style.background = "white";
         
         
         }
@@ -25,6 +25,7 @@ class ToggleSwitch extends React.Component {
         for (var i = 0, len = allElements.length; i < len; i++) {
           var element = allElements[i];
           element.style.background = "rgb(18, 18, 37)"
+          
       }
       var allH = document.getElementsByTagName("h2")
         for (var i = 0, len = allH.length; i < len; i++) {

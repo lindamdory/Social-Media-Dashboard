@@ -9,7 +9,7 @@ function Header(){
             <h5 >Total Followers: 23,005</h5>
             </div>
 
-            <div className="card">
+            <div id="toggleswitchy" className="card">
                
                 <ToggleSwitch />
             </div>
