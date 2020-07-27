@@ -2,7 +2,8 @@
 Created with React.js 
 based on frontendmentor.io challenge (https://www.frontendmentor.io/challenges/social-media-dashboard-with-theme-switcher-6oY8ozp_H)
 
-![smdashboard-removebg-preview](https://user-images.githubusercontent.com/58664635/88532749-6d933800-d005-11ea-8ced-96ce4d2ee1df.png)
+![ftdvklbtn6y7ydjxjjuj](https://user-images.githubusercontent.com/58664635/88533222-3a9d7400-d006-11ea-9908-8200cfdb9da9.jpg)
+
 
 
 
