@@ -1,3 +1,11 @@
+### Social media dashboard with theme switcher
+Created with React.js 
+based on frontendmentor.io challenge (https://www.frontendmentor.io/challenges/social-media-dashboard-with-theme-switcher-6oY8ozp_H)
+
+![smdashboard-removebg-preview](https://user-images.githubusercontent.com/58664635/88532749-6d933800-d005-11ea-8ced-96ce4d2ee1df.png)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
